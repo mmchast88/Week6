@@ -1,0 +1,39 @@
+button {
+	background-color: teal;
+	color: white;
+	font-size: 20px;
+	font-family: arial;
+	margin-right: 5px;
+	border-radius: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+#animal-form {
+	float: right;
+	background-color: teal;
+	position: relative;
+	bottom: -40px;
+	width: 270px;
+	height: 80px;
+	
+}
+
+#animal-input {
+	font-size: 20px;
+
+	
+}
+
+label {
+	font-size: 17px;
+	color: white;
+	font-family: arial;
+
+}
+
+input#addAnimal {
+	font-size: 30px;
+}
+
